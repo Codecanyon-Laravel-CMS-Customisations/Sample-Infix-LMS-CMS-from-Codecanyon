@@ -1,4 +1,4 @@
-For Laravel Dev: This is sample-project details for you to grasp requirements.
+Customisations required on below LMS CMS available on Codecanyon.
 
 # InfixLMS_package
  Source Product Page https://codecanyon.net/item/infixlms-learning-management-system/30626608
