@@ -1,4 +1,4 @@
-For Laravel Dev: This is sample-project details for you to grasp requirements only, source access will be shared after Order starts or after finalization.
+For Laravel Dev: This is sample-project details for you to grasp requirements.
 
 # InfixLMS_package
  Source Product Page https://codecanyon.net/item/infixlms-learning-management-system/30626608
